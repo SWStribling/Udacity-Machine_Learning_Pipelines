@@ -25,11 +25,23 @@ def go(args):
     # HINT: you can use args.artifact_name to reference the parameter artifact_name
 
     # YOUR CODE HERE
+    logger.info("Creating artifact")
+
+    artifact = wandb.Artifact(
+        name=args.artifact_name,
+        type=args.artifact_type,
+        description=args.artifact_description,
+    )
 
     # Attach the file provided as the parameter ``input_file`` to the artifact instance using
     # ``artifact.add_file``, and log the artifact to the run using ``run.log_artifact``.
 
     # YOUR CODE HERE
+    artifact.add_file(args.input_file)
+
+    logger.info("Logging artifact")
+    
+    run.log_artifact(artifact)
 
 
 if __name__ == "__main__":
