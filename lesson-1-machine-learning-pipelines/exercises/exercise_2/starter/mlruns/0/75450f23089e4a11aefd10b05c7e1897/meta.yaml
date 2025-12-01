@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/75450f23089e4a11aefd10b05c7e1897/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75450f23089e4a11aefd10b05c7e1897
+run_name: tasteful-crane-203
+run_uuid: 75450f23089e4a11aefd10b05c7e1897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764629784178
+status: 1
+tags: []
+user_id: swstribling
