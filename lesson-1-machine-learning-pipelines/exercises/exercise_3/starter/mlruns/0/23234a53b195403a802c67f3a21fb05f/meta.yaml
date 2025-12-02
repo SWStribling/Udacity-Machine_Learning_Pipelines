@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/23234a53b195403a802c67f3a21fb05f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23234a53b195403a802c67f3a21fb05f
+run_name: suave-gnat-528
+run_uuid: 23234a53b195403a802c67f3a21fb05f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764701252002
+status: 1
+tags: []
+user_id: swstribling
