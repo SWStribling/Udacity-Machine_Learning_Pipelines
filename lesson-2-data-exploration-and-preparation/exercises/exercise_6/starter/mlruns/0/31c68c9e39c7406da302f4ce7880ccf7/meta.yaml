@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/mlruns/0/31c68c9e39c7406da302f4ce7880ccf7/artifacts
+end_time: 1765148165072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31c68c9e39c7406da302f4ce7880ccf7
+run_name: fearless-cub-493
+run_uuid: 31c68c9e39c7406da302f4ce7880ccf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765148057002
+status: 3
+tags: []
+user_id: swstribling
