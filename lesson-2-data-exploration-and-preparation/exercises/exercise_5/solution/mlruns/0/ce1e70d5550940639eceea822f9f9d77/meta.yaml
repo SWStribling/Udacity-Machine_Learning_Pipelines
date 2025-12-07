@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/mlruns/0/ce1e70d5550940639eceea822f9f9d77/artifacts
+end_time: 1765145850412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce1e70d5550940639eceea822f9f9d77
+run_name: capricious-bear-566
+run_uuid: ce1e70d5550940639eceea822f9f9d77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765145718783
+status: 3
+tags: []
+user_id: swstribling
