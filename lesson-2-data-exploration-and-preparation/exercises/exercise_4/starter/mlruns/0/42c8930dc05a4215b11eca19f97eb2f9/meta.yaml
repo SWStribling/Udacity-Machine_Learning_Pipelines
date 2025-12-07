@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/42c8930dc05a4215b11eca19f97eb2f9/artifacts
+end_time: 1765132695313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42c8930dc05a4215b11eca19f97eb2f9
+run_name: wise-mole-912
+run_uuid: 42c8930dc05a4215b11eca19f97eb2f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765131512100
+status: 3
+tags: []
+user_id: swstribling
