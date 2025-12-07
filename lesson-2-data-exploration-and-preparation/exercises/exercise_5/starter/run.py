@@ -14,7 +14,31 @@ def go(args):
     run = wandb.init(project="exercise_5", job_type="process_data")
 
     ## YOUR CODE HERE
-    pass
+    logger.info("Downloading artifact")
+    artifact = run.use_artifact(args.input_artifact)
+    artifact_path = artifact.file()
+
+    logger.info("Reading data into a DataFrame")
+    df = pd.read_parquet(artifact_path)
+    
+    logger.info("Preprocessing data")
+    # Example preprocessing: drop rows with missing values
+    df = df.dropduplicates().reset_index(drop=True)
+
+    df['title'] = df['title'].fillna(value = "", inplace = True)
+    df['song_name'] = df['song_name'].fillna(value = "", inplace = True)
+    df['text_feature'] = df['title'] + " " + df['song_name']
+
+    outfile = args.artifact_name
+    df.to_csv(outfile)
+    artifact = wandb.Artifact(
+        name=args.artifact_name,
+        type=args.artifact_type,
+        description=args.artifact_description
+    )
+    artifact.add_file(outfile)
+
+    run.log_artifact(artifact)
 
 
 if __name__ == "__main__":
