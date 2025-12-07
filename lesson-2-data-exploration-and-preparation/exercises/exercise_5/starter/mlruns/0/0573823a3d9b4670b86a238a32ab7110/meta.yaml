@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/starter/mlruns/0/0573823a3d9b4670b86a238a32ab7110/artifacts
+end_time: 1765147164804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0573823a3d9b4670b86a238a32ab7110
+run_name: kindly-calf-953
+run_uuid: 0573823a3d9b4670b86a238a32ab7110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765147052862
+status: 3
+tags: []
+user_id: swstribling

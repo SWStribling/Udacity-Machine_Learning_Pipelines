@@ -1,13 +1,13 @@
 name: exercise_5
 conda_env: conda.yml
 
-entryy_points:
+entry_points:
   main:
     parameters:
       input_artifact:
         description: Name of the input artifact
         type: str
-      arttifact_name:
+      artifact_name:
         description: Name of the output artifact
         type: str
       artifact_type:
@@ -18,6 +18,6 @@ entryy_points:
         type: str
     command: >-
       python run.py --input_artifact {input_artifact} \
-                    --arttifact_name {arttifact_name} \
+                    --artifact_name {artifact_name} \
                     --artifact_type {artifact_type} \
                     --artifact_description {artifact_description}
