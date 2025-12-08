@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_9/starter/mlruns/0/5bdd27203d124dc5b5963d9f1319489b/artifacts
+end_time: 1765230414205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bdd27203d124dc5b5963d9f1319489b
+run_name: chill-wren-517
+run_uuid: 5bdd27203d124dc5b5963d9f1319489b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765230374604
+status: 4
+tags: []
+user_id: swstribling

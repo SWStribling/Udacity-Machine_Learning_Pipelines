@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_9/starter/mlruns/0/b9e7060cb32340918ed5f91c71a6f652/artifacts
+end_time: 1765230439015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9e7060cb32340918ed5f91c71a6f652
+run_name: industrious-gull-947
+run_uuid: b9e7060cb32340918ed5f91c71a6f652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765230425566
+status: 4
+tags: []
+user_id: swstribling
