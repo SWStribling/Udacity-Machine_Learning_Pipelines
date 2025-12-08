@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_7/starter/mlruns/0/b331360318b243eab75a7de68900d6a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b331360318b243eab75a7de68900d6a1
+run_name: learned-shoat-75
+run_uuid: b331360318b243eab75a7de68900d6a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765218850069
+status: 1
+tags: []
+user_id: swstribling
