@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-3-data-validation/exercises/exercise_7/solution/mlruns/0/3d508330da434a1ab77cceac48d1accd/artifacts
+end_time: 1765218365275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d508330da434a1ab77cceac48d1accd
+run_name: righteous-snake-572
+run_uuid: 3d508330da434a1ab77cceac48d1accd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765218332970
+status: 3
+tags: []
+user_id: swstribling
