@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/ffee3ae2f93946c4a303fc1e61f51a6a/artifacts
+end_time: 1765479551830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffee3ae2f93946c4a303fc1e61f51a6a
+run_name: valuable-auk-241
+run_uuid: ffee3ae2f93946c4a303fc1e61f51a6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765479343033
+status: 3
+tags: []
+user_id: swstribling
