@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/a4b18288e7f94a01b088682c3ec9dcd5/artifacts
+end_time: 1765487071366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4b18288e7f94a01b088682c3ec9dcd5
+run_name: bouncy-lynx-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765486947844
+status: 3
+tags: []
+user_id: swstribling

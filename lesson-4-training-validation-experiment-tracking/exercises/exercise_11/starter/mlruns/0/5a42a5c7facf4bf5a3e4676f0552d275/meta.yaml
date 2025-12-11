@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/5a42a5c7facf4bf5a3e4676f0552d275/artifacts
+end_time: 1765488148964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a42a5c7facf4bf5a3e4676f0552d275
+run_name: kindly-flea-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765487861096
+status: 3
+tags: []
+user_id: swstribling

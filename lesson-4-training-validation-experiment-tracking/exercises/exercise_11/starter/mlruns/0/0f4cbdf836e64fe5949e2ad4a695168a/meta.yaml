@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/0f4cbdf836e64fe5949e2ad4a695168a/artifacts
+end_time: 1765488105964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f4cbdf836e64fe5949e2ad4a695168a
+run_name: gaudy-dolphin-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765487784348
+status: 3
+tags: []
+user_id: swstribling

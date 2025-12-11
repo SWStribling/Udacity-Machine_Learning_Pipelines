@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/6654903cd2cd4aff81e5a84115286ddf/artifacts
+end_time: 1765487218049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6654903cd2cd4aff81e5a84115286ddf
+run_name: sedate-shrike-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765487038194
+status: 3
+tags: []
+user_id: swstribling

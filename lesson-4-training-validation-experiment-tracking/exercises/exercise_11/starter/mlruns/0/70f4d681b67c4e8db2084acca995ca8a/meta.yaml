@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/70f4d681b67c4e8db2084acca995ca8a/artifacts
+end_time: 1765487746314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70f4d681b67c4e8db2084acca995ca8a
+run_name: glamorous-whale-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765487218995
+status: 3
+tags: []
+user_id: swstribling

@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/a05181f2d7174b3f9b43ee4ff98f6f9f/artifacts
+end_time: 1765487958279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a05181f2d7174b3f9b43ee4ff98f6f9f
+run_name: nebulous-carp-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765487464542
+status: 3
+tags: []
+user_id: swstribling

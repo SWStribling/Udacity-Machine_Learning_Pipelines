@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/b394c1cb2d244b6982eeffe650248cae/artifacts
+end_time: 1765487382361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b394c1cb2d244b6982eeffe650248cae
+run_name: persistent-shoat-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765487073490
+status: 3
+tags: []
+user_id: swstribling

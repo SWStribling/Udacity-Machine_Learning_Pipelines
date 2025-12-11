@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ab46d7fcd0104d399f1ec29245fba349/artifacts
+end_time: 1765488088712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab46d7fcd0104d399f1ec29245fba349
+run_name: nimble-seal-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765487747643
+status: 3
+tags: []
+user_id: swstribling

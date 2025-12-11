@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/0c94848a39a8437b80399fd9315a2967/artifacts
+end_time: 1765487265594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c94848a39a8437b80399fd9315a2967
+run_name: inquisitive-ray-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765487052771
+status: 3
+tags: []
+user_id: swstribling

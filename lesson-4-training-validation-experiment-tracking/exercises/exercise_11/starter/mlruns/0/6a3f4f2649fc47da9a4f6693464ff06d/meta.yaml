@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/6a3f4f2649fc47da9a4f6693464ff06d/artifacts
+end_time: 1765487072251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a3f4f2649fc47da9a4f6693464ff06d
+run_name: burly-wren-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765486947798
+status: 3
+tags: []
+user_id: swstribling

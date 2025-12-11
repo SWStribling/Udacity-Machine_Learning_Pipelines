@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/afd72f2dfd4f4572a0c0c047cc7ab620/artifacts
+end_time: 1765487071497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afd72f2dfd4f4572a0c0c047cc7ab620
+run_name: unruly-shark-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765486947799
+status: 3
+tags: []
+user_id: swstribling

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/883dc2d0948842f39a78a109ab04451f/artifacts
+end_time: 1765488151851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 883dc2d0948842f39a78a109ab04451f
+run_name: welcoming-rook-346
+run_uuid: 883dc2d0948842f39a78a109ab04451f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765486927763
+status: 3
+tags: []
+user_id: swstribling

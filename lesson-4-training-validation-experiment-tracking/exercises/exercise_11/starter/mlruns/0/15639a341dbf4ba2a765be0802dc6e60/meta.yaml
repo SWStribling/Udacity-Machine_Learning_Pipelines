@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/15639a341dbf4ba2a765be0802dc6e60/artifacts
+end_time: 1765486082235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15639a341dbf4ba2a765be0802dc6e60
+run_name: inquisitive-bear-95
+run_uuid: 15639a341dbf4ba2a765be0802dc6e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765486054692
+status: 3
+tags: []
+user_id: swstribling

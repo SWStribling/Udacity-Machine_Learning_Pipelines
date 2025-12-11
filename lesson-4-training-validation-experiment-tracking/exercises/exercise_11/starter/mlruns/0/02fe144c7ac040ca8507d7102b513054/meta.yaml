@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/02fe144c7ac040ca8507d7102b513054/artifacts
+end_time: 1765486414194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02fe144c7ac040ca8507d7102b513054
+run_name: gifted-elk-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765486395392
+status: 3
+tags: []
+user_id: swstribling

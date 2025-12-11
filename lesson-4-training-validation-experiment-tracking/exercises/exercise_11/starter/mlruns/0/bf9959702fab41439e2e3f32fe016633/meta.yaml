@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/bf9959702fab41439e2e3f32fe016633/artifacts
+end_time: 1765486628022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf9959702fab41439e2e3f32fe016633
+run_name: efficient-grouse-138
+run_uuid: bf9959702fab41439e2e3f32fe016633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765486620828
+status: 4
+tags: []
+user_id: swstribling

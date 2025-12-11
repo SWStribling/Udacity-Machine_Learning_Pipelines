@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/5db0bacceb7f4175829e066dae18061b/artifacts
+end_time: 1765486745002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5db0bacceb7f4175829e066dae18061b
+run_name: useful-hare-741
+run_uuid: 5db0bacceb7f4175829e066dae18061b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765486738372
+status: 4
+tags: []
+user_id: swstribling
