@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/8dac3cca761a488fbbaebf1d38cee090/artifacts
+end_time: 1765657596676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dac3cca761a488fbbaebf1d38cee090
+run_name: popular-grub-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765657530645
+status: 3
+tags: []
+user_id: swstribling

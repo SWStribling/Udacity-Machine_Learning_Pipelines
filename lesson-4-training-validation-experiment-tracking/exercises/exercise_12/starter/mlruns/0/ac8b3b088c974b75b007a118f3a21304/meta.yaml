@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/ac8b3b088c974b75b007a118f3a21304/artifacts
+end_time: 1765657596987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac8b3b088c974b75b007a118f3a21304
+run_name: serious-goat-254
+run_uuid: ac8b3b088c974b75b007a118f3a21304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765657525679
+status: 3
+tags: []
+user_id: swstribling
